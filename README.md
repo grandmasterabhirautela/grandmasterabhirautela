@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real-Time Chat Application using Socket.io**
 
-- 🌱 I’m currently learning **DSA, System Design, UI/UX, Recat JS**
+- 🌱 I’m currently learning **DSA, System Design, UI/UX, React JS**
 
 - 💬 Ask me about **Networking, Algorithms and Web Development**
 
